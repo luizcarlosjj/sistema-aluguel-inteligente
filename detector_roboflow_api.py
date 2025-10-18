@@ -9,7 +9,7 @@ class BetoneiraDetectorAPI:
     def __init__(self):
         # 🔑 CONFIGURE COM OS DADOS DO CÓDIGO GERADO
         self.API_KEY = "nCS2G2BqZxMZoEJxLKGZ"
-        self.MODEL_ID = "aps6-1ibfu/4"
+        self.MODEL_ID = "aps6-1ibfu/5"
         
         self.CLIENT = InferenceHTTPClient(
             api_url="https://serverless.roboflow.com",
