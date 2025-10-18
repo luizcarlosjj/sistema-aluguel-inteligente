@@ -220,13 +220,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 - Controle de ativos visuais
 - Documentação comprobatória
 
-## 📞 Suporte
-
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/betoneira-system/issues)
-- **Email**: suporte@empresa.com
-- **Documentação**: [Wiki do Projeto](https://github.com/seu-usuario/betoneira-system/wiki)
-
----
 
 **Desenvolvido com ❤️ para revolucionar a gestão de equipamentos na construção civil**
 
