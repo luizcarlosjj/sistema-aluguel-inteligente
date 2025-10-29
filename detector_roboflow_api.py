@@ -38,7 +38,7 @@ class BetoneiraDetectorAPI:
     def __init__(self):
         # 🔑 CREDENCIAIS ROBOFLOW
         self.API_KEY = "nCS2G2BqZxMZoEJxLKGZ"
-        self.MODEL_ID = "aps6-1ibfu/6"
+        self.MODEL_ID = "aps6-1ibfu/7"
         
         # Configuração otimizada do cliente
         try:
