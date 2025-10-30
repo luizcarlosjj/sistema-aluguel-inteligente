@@ -37,8 +37,8 @@ import time
 class BetoneiraDetectorAPI:
     def __init__(self):
         # 🔑 CREDENCIAIS ROBOFLOW
-        self.API_KEY = "nCS2G2BqZxMZoEJxLKGZ"
-        self.MODEL_ID = "aps6-1ibfu/7"
+        self.API_KEY = "x"
+        self.MODEL_ID = "x"
         
         # Configuração otimizada do cliente
         try:
